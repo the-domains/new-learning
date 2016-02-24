@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T11:28:22.114Z'
-dateModified: '2016-02-24T11:28:17.219Z'
+datePublished: '2016-02-24T11:29:16.048Z'
+dateModified: '2016-02-24T11:29:13.201Z'
 title: "Kompetanse\_"
 author: []
 sourcePath: _posts/2016-02-24-kompetanse.md
