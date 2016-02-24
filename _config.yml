@@ -1,7 +1,7 @@
 name: New Learning
 favicon: null
-layout_spectrum: 0.8980581404175609
-typography_spectrum: 0.2669368921779096
+layout_spectrum: 1
+typography_spectrum: 0.49864
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.7160636964254081
-  lightness: 0.44134855014272034
-  saturation: 0.9007614098954946
-  rhythmicContrast: 0.6527238539420068
+    - '#fcfcfc'
+    - '#084b8f'
+    - '#656565'
+    - '#73a8c7'
+    - '#0492bc'
+  brandStrength: 0.8125
+  lightness: 0.4375
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
