@@ -1,0 +1,28 @@
+name: New Learning
+favicon: null
+layout_spectrum: 0.8980581404175609
+typography_spectrum: 0.2669368921779096
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7160636964254081
+  lightness: 0.44134855014272034
+  saturation: 0.9007614098954946
+  rhythmicContrast: 0.6527238539420068
+purpose: []
