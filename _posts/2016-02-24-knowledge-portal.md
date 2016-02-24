@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T11:43:44.866Z'
-dateModified: '2016-02-24T11:43:21.787Z'
+datePublished: '2016-02-24T11:45:48.833Z'
+dateModified: '2016-02-24T11:45:44.115Z'
 title: Knowledge Portal
 author: []
 sourcePath: _posts/2016-02-24-knowledge-portal.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Knowledge Portal
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12b89502-1fd7-4e8c-b87b-e9c43e2c2c0f.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e6255e057239e9234a03933146f4d84dd05302b.png)
 
 Knowledge Portal er en fullverdig opplæringsportal (LMS) som sikrer
 god kompetanseutvikling gjennom e-læring, instruktørledet opplæring
@@ -40,7 +40,7 @@ og andre formater.
 
 - Opplæringsplaner
 
-- Tester og sertifiseringer  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4af4461-2ccf-4681-bbcf-93c0bbe52262.png)
+- Tester og sertifiseringer  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4de5dad4bedddc0b20d5e5762ed1fa6528cc085d.png)
 
 **E-LÆRING
 **
@@ -54,7 +54,7 @@ og andre formater.
 - Forfatterverktøy - lag din egen e-læring  
 
 - Rapporter
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/333d1771-001a-475d-94cd-c5c692d7dcb8.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/757eb2f78cef713c0ce2037093e0f801d14991da.png)
 
 **INSTRUKTØRLEDET OPPLÆRING
 **
@@ -85,7 +85,7 @@ finne fram.
 Brukerne får tilgang til innholdet direkte eller gjennom
 grupper, og dette kan synkroniseres med kundens
 egen brukerdatabase.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/507c0fb1-a82d-492b-a897-7b7b62d7037c.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/88c5c70a9e0e80c67ede46a1f8d1fea93f0bae17.png)
 
 # Paneler og grafisk tilpasning
 
