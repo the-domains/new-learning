@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T11:39:20.823Z'
-dateModified: '2016-02-24T11:39:15.293Z'
+datePublished: '2016-02-24T11:43:44.866Z'
+dateModified: '2016-02-24T11:43:21.787Z'
 title: Knowledge Portal
 author: []
 sourcePath: _posts/2016-02-24-knowledge-portal.md
@@ -40,7 +40,7 @@ og andre formater.
 
 - Opplæringsplaner
 
-- Tester og sertifiseringer  
+- Tester og sertifiseringer  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4af4461-2ccf-4681-bbcf-93c0bbe52262.png)
 
 **E-LÆRING
 **
@@ -85,6 +85,7 @@ finne fram.
 Brukerne får tilgang til innholdet direkte eller gjennom
 grupper, og dette kan synkroniseres med kundens
 egen brukerdatabase.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/507c0fb1-a82d-492b-a897-7b7b62d7037c.png)
 
 # Paneler og grafisk tilpasning
 
