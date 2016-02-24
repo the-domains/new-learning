@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T10:49:03.431Z'
-dateModified: '2016-02-24T10:49:02.737Z'
+datePublished: '2016-02-24T10:52:41.973Z'
+dateModified: '2016-02-24T10:52:41.471Z'
 title: Hva gjør New Learning?
 author: []
 sourcePath: _posts/2016-02-24-new-learning.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Hva gjør New Learning?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d70068d-df04-49b4-b398-9cae8e06c2cc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e84ffab4587efc81e3e068418ffeca53382aea03.jpg)
 
 New Learning utvikler og leverer opplæring og opplæringsløsninger. Vi leverer i hovedsak vår opplæringsplattform, Knowledge Portal, og e-læring. Vi kan også tilby instruktørledet opplæring og rådgivning og helhetlige læringsprogrammer for kunder som ønsker det. 
 
