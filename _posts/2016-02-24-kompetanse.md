@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T11:27:53.013Z'
-dateModified: '2016-02-24T11:27:43.046Z'
+datePublished: '2016-02-24T11:28:22.114Z'
+dateModified: '2016-02-24T11:28:17.219Z'
 title: "Kompetanse\_"
 author: []
+sourcePath: _posts/2016-02-24-kompetanse.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-24-kompetanse.md
-published: true
 url: kompetanse/index.html
 _type: Article
 
