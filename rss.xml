@@ -4,7 +4,7 @@
         <description><![CDATA[New Learning]]></description>
         <link>https://thegrid.ai/new-learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 11:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 11:24:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/new-learning/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Knowledge Portal]]></title>
@@ -31,13 +31,6 @@ Vi gleder oss til å også levere kunnskapstjenester til din bedrift!</p><img sr
             <link>https://thegrid.ai/new-learning/ansatte/index.html</link>
             <guid isPermaLink="false">503efc45-6516-415b-96e2-8a9b923844b0</guid>
             <pubDate>Wed, 24 Feb 2016 11:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meny]]></title>
-            <description><![CDATA[<article><h1>Meny</h1><p>Dette er hovedmenyen</p></article>]]></description>
-            <link>https://thegrid.ai/new-learning/meny/index.html</link>
-            <guid isPermaLink="false">28cfefc5-d9e2-47bc-aae1-0ac26b220719</guid>
-            <pubDate>Wed, 24 Feb 2016 11:22:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
