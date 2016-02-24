@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T11:36:23.357Z'
-dateModified: '2016-02-24T11:36:13.781Z'
+datePublished: '2016-02-24T11:39:20.823Z'
+dateModified: '2016-02-24T11:39:15.293Z'
 title: Knowledge Portal
 author: []
 sourcePath: _posts/2016-02-24-knowledge-portal.md
@@ -54,6 +54,7 @@ og andre formater.
 - Forfatterverktøy - lag din egen e-læring  
 
 - Rapporter
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/333d1771-001a-475d-94cd-c5c692d7dcb8.png)
 
 **INSTRUKTØRLEDET OPPLÆRING
 **
