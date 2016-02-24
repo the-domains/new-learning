@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T11:22:58.434Z'
-dateModified: '2016-02-24T11:22:58.022Z'
+datePublished: '2016-02-24T11:31:19.165Z'
+dateModified: '2016-02-24T11:31:18.197Z'
 title: 'Hvem er New Learning, og hva gjør vi?'
 author: []
 sourcePath: _posts/2016-02-24-new-learning.md
