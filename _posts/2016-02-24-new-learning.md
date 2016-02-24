@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T11:31:19.165Z'
-dateModified: '2016-02-24T11:31:18.197Z'
+datePublished: '2016-02-24T11:50:07.866Z'
+dateModified: '2016-02-24T11:50:07.462Z'
 title: 'Hvem er New Learning, og hva gjør vi?'
 author: []
 sourcePath: _posts/2016-02-24-new-learning.md
@@ -31,15 +31,17 @@ I New Learning har vi lang og bred erfaring fra et stort antall kunnskapsleveran
 
 Vi arbeider ut fra følgende kjerneverdier: 
 > 
-> GLEDE, ENGASJEMENT, INTEGRITET, INNOVASJON,
+> GLEDE, ENGASJEMENT, INTEGRITET, INNOVASJON
 
 og vi tar mål av oss til å bli den viktigste opplæringspartneren for IKT i Norden. 
-Vi har brukeren i sentrum og fokuserer på effektiv opplæring og rik læringsopplevelse. Vi har over 50 års erfaring fra opplæringsbransjen og mer enn 30 000 brukere i våre løsninger. 
+Vi har brukeren i sentrum og fokuserer på effektiv opplæring og rik læringsopplevelse. Vi har over 50 års erfaring fra opplæringsbransjen og mer enn 30 000 brukere i våre løsninger. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdc23baa-bdc5-4c7b-8ead-6b0ff43f8e20.jpg)
 
 Forskning viser at kostnaden med å kvalitetssikre kompetansen hos brukerne ved nye leveranser er lav sammenlignet med konsekvensene av manglende kompetanse hos de ansatte. Og for å opprettholde en bedrifts konkurransefortrinn må organisasjonen være i stand til å gi de ansatte rask og effektiv opplæring. Professor David A. Garvin ved Harvard Business School sier følgende:
  
 
 > _Læring er kanskje det eneste langsiktige konkurransefortrinnet en bedrift kan ha. Produkter kan kopieres, tjenester kan kopieres, prosesser kan kopieres. Bedrifter som lærer fortere enn konkurrentene vil gå forbi og etablere et markedsfortrinn. Hvis evnen til å lære ikke samsvarer med markedsutviklingen vil bedriften miste markedsandeler. _
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29fcdc38-de8f-4a37-9d63-c2491a98a07b.jpg)
 
 Under mottoet "Alt er lett, bare du kan det", anbefaler vi alle våre kunder å legge vekt på læring i forbindelse med nye investeringer. La deg inspirere av opplæring med høy kvalitet på ulike medier som iPad, datamaskin, mobiltelefon eller fra våre dyktige instruktører i klasserom og via online training.
 Vi gleder oss til å også levere kunnskapstjenester til din bedrift!
