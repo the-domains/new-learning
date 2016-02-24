@@ -2,6 +2,7 @@ name: New Learning
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.49864
+title: New Learning
 cta:
   domain: null
   bucket: null
