@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T11:20:24.327Z'
-dateModified: '2016-02-24T11:20:14.022Z'
+datePublished: '2016-02-24T11:22:46.586Z'
+dateModified: '2016-02-24T11:22:43.138Z'
 title: Knowledge Portal
 author: []
 sourcePath: _posts/2016-02-24-knowledge-portal.md
