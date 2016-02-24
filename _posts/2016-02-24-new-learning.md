@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T10:52:41.973Z'
-dateModified: '2016-02-24T10:52:41.471Z'
+datePublished: '2016-02-24T11:03:44.261Z'
+dateModified: '2016-02-24T11:03:43.743Z'
 title: Hva gjør New Learning?
 author: []
 sourcePath: _posts/2016-02-24-new-learning.md
@@ -31,10 +31,13 @@ I New Learning har vi lang og bred erfaring fra et stort antall kunnskapsleveran
 
 Vi arbeider ut fra følgende kjerneverdier: 
 
-* GLEDE 
-* ENGASJEMENT 
-* INTEGRITET 
-* INNOVASJON 
+- GLEDE 
+
+- ENGASJEMENT 
+
+- INTEGRITET 
+
+- INNOVASJON 
 
 og vi tar mål av oss til å bli den viktigste opplæringspartneren for IKT i Norden. 
 Vi har brukeren i sentrum og fokuserer på effektiv opplæring og rik læringsopplevelse. Vi har over 50 års erfaring fra opplæringsbransjen og mer enn 30 000 brukere i våre løsninger. 
