@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T11:33:39.772Z'
-dateModified: '2016-02-24T11:33:31.868Z'
+datePublished: '2016-02-24T11:33:52.438Z'
+dateModified: '2016-02-24T11:33:49.392Z'
 title: "Kontakt oss\_"
 author: []
+sourcePath: _posts/2016-02-24-kontakt-oss.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-24-kontakt-oss.md
-published: true
 url: kontakt-oss/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Kontakt oss 
