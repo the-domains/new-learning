@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-24T11:12:43.014Z'
-dateModified: '2016-02-24T11:11:56.078Z'
+datePublished: '2016-02-24T11:15:07.397Z'
+dateModified: '2016-02-24T11:14:54.665Z'
 title: Knowledge Portal
 author: []
+sourcePath: _posts/2016-02-24-knowledge-portal.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-24-knowledge-portal.md
-published: true
 url: knowledge-portal/index.html
 _type: Article
 
@@ -39,4 +39,28 @@ og andre formater.
 
 - Opplæringsplaner
 
-- Tester og sertifiseringer
+- Tester og sertifiseringer  
+
+**E-LÆRING
+**
+
+- Ferdigutviklet e-læring fra New Learning
+
+- Legge inn egen e-læring 
+
+- Oppslagsverk / kunnskapsdatabase 
+
+- Forfatterverktøy - lag din egen e-læring  
+
+- Rapporter
+
+**INSTRUKTØRLEDET OPPLÆRING
+**
+
+- Påmelding til klasserom 
+
+- Påmelding til webinar
+
+- Administrasjon av instruktørledet opplæring
+
+- Rapport på deltagelse / gjennomføring
