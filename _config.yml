@@ -1,6 +1,6 @@
 name: New Learning
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.74843
 typography_spectrum: 0.49864
 title: New Learning
 cta:
@@ -22,7 +22,7 @@ color:
     - '#656565'
     - '#73a8c7'
     - '#0492bc'
-  brandStrength: 0.6875
+  brandStrength: 0.75
   lightness: 0.5
   saturation: 0.5625
   rhythmicContrast: 0.5
