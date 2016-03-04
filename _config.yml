@@ -1,4 +1,4 @@
-name: New Learning
+name: New Learning AS
 favicon: null
 layout_spectrum: 0.74843
 typography_spectrum: 0.49864
@@ -22,7 +22,7 @@ color:
     - '#656565'
     - '#73a8c7'
     - '#0492bc'
-  brandStrength: 0.5
+  brandStrength: 0.625
   lightness: 0.125
   saturation: 0.8125
   rhythmicContrast: 0.5
