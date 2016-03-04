@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T09:51:59.310Z'
-dateModified: '2016-03-04T09:51:55.676Z'
+datePublished: '2016-03-04T09:56:59.406Z'
+dateModified: '2016-03-04T09:56:54.667Z'
 title: Knowledge Portal
 author: []
 sourcePath: _posts/2016-02-24-knowledge-portal.md
@@ -23,15 +23,16 @@ _type: Article
 
 ---
 # Knowledge Portal
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c15d1c9-6fac-4ddf-b584-b8c945d01285.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4de5dad4bedddc0b20d5e5762ed1fa6528cc085d.png)
 
 Knowledge Portal er en fullverdig opplæringsportal (LMS) som sikrer
 god kompetanseutvikling gjennom e-læring, instruktørledet opplæring
 og andre formater.
 
 ## HIGHLIGHTS
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c15d1c9-6fac-4ddf-b584-b8c945d01285.png)
 
-All opplæring samlet på ett sted, oversikt over ansattes kompetanse, styrt kompetanseheving, opplæringsplaner, tester og sertifiseringer.  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4de5dad4bedddc0b20d5e5762ed1fa6528cc085d.png)
+All opplæring samlet på ett sted, oversikt over ansattes kompetanse, styrt kompetanseheving, opplæringsplaner, tester og sertifiseringer.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/843d3e78-2378-4990-8ca4-f4dc669923a0.png)
 
 Ferdigutviklet e-læring fra New Learning, legge inn egen e-læring, oppslagsverk/kunnskapsdatabase, forfatterverktøy - lag din egen e-læring, rapporter.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/757eb2f78cef713c0ce2037093e0f801d14991da.png)
