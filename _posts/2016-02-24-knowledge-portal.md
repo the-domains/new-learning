@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T07:43:48.654Z'
-dateModified: '2016-03-04T07:43:16.752Z'
+datePublished: '2016-03-04T09:32:51.560Z'
+dateModified: '2016-03-04T09:32:42.280Z'
 title: Knowledge Portal
 author: []
 sourcePath: _posts/2016-02-24-knowledge-portal.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Knowledge Portal
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e6255e057239e9234a03933146f4d84dd05302b.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c15d1c9-6fac-4ddf-b584-b8c945d01285.png)
 
 Knowledge Portal er en fullverdig opplæringsportal (LMS) som sikrer
 god kompetanseutvikling gjennom e-læring, instruktørledet opplæring
