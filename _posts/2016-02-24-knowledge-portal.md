@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T07:39:28.009Z'
-dateModified: '2016-03-04T07:39:14.332Z'
+datePublished: '2016-03-04T07:43:48.654Z'
+dateModified: '2016-03-04T07:43:16.752Z'
 title: Knowledge Portal
 author: []
 sourcePath: _posts/2016-02-24-knowledge-portal.md
@@ -29,55 +29,23 @@ Knowledge Portal er en fullverdig opplæringsportal (LMS) som sikrer
 god kompetanseutvikling gjennom e-læring, instruktørledet opplæring
 og andre formater.
 
-**OPPLÆRINGSPORTAL
-**
+## HIGHLIGHTS
 
-- All opplæring samlet på ett sted
+All opplæring samlet på ett sted, oversikt over ansattes kompetanse, styrt kompetanseheving, opplæringsplaner, tester og sertifiseringer.  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4de5dad4bedddc0b20d5e5762ed1fa6528cc085d.png)
 
-- Oversikt over ansattes kompetanse
-
-- Styrt kompetanseheving
-
-- Opplæringsplaner
-
-- Tester og sertifiseringer  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4de5dad4bedddc0b20d5e5762ed1fa6528cc085d.png)
-
-**E-LÆRING
-**
-
-- Ferdigutviklet e-læring fra New Learning
-
-- Legge inn egen e-læring 
-
-- Oppslagsverk / kunnskapsdatabase 
-
-- Forfatterverktøy - lag din egen e-læring  
-
-- Rapporter
+Ferdigutviklet e-læring fra New Learning, legge inn egen e-læring, oppslagsverk/kunnskapsdatabase, forfatterverktøy - lag din egen e-læring, rapporter.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/757eb2f78cef713c0ce2037093e0f801d14991da.png)
 
-**INSTRUKTØRLEDET OPPLÆRING
-**
+Påmelding til klasseromskurs, påmelding til webinar, administrasjon av instruktørledet opplæring, rapporter på deltakelse
 
-- Påmelding til klasserom 
-
-- Påmelding til webinar
-
-- Administrasjon av instruktørledet opplæring
-
-- Rapport på deltagelse / gjennomføring
-
-# Innhold og organisering
+## Innhold og organisering
 
 Knowledge Portal håndterer opplæring på en god og
 ryddig måte. E-læring og annet innhold organiseres i
 opplæringspakker, bestående av flere opplærings-
 elementer.
 
-En opplæringspakke kan bestå av: E-læringskurs, instruktørledede kurs, lenker, dokumenter, tester.
-
-Opplæringspakkene kan legges inn i en opplærings-
-plan, slik at brukerne kan følge planen, inklusiv tids-
+En opplæringspakke kan bestå av: E-læringskurs, instruktørledede kurs, lenker, dokumenter, tester. Opplæringspakkene kan legges inn i en opplæringsplan, slik at brukerne kan følge planen, inklusiv tids-
 frister for når opplæringen skal være gjennomført.
 Alt innhold er merket med tags, slik at det er enkelt å
 finne fram.
